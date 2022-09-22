@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/python3
 i = 0
 whil i <= 99:
     print("0{0:d}".format(i) if i < 10 else "{0:d}".format(i),

@@ -9,6 +9,6 @@ while i < 10:
             if i >= 8 and i <= 9:
                 print()
             else:
-                print(end", ")
+                print(end=", ")
         j += 1
     i += 1

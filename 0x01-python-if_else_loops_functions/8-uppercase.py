@@ -5,5 +5,5 @@ def uppercase(str):
         ascii = ord(c)
         if ascii >= 97 and ascii <= 122:
             ascii = ascii - 32
-            print("{0:c}".format(ascii), end="")
+        print("{0:c}".format(ascii), end="")
     print()

@@ -6,4 +6,4 @@ def uppercase(str):
         if ascii >= 97:
             ascii = ascii - 32
             print("{0:c}".format(ascii), end="")
-            print()
+    print()

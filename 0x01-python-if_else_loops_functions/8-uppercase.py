@@ -1,4 +1,4 @@
-#!/usr/bin/pthon3
+#!/usr/bin/python3
 def uppercase(str):
     special_chars = " ,-_@^*&%$!"
     for c in str:

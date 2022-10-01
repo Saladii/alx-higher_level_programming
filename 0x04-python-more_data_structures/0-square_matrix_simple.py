@@ -1,4 +1,4 @@
-#!/bin/bash/python3
+#!/usr/bin/python3
 def square_matrix_simple(matrix=[]):
     new_list = []
     for i in matrix:

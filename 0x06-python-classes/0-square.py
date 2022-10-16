@@ -2,6 +2,6 @@
 '''squre class'''
 
 
-class squre():
+class square():
     '''embpty class'''
     pass

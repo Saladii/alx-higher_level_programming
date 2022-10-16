@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-'''squre class'''
+'''Square class'''
 
 
-class square():
-    '''embpty class'''
+class Square():
+    '''Empty class'''
     pass
